@@ -1,0 +1,11 @@
+com\example\demo\dto\InventoryResponse.class
+com\example\demo\service\OrderService.class
+com\example\demo\model\OrderLineItems.class
+com\example\demo\model\Order.class
+com\example\demo\config\WebClientConfig.class
+com\example\demo\controller\OrderController.class
+com\example\demo\OrderServicesApplication.class
+com\example\demo\dto\InventoryResponse$InventoryResponseBuilder.class
+com\example\demo\dto\OrderRequest.class
+com\example\demo\dto\OrderLineItemsDto.class
+com\example\demo\repository\OrderRepository.class

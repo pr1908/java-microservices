@@ -1,0 +1,10 @@
+D:\pracice\test\order-services\src\main\java\com\example\demo\config\WebClientConfig.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\dto\InventoryResponse.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\model\Order.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\model\OrderLineItems.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\service\OrderService.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\controller\OrderController.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\dto\OrderLineItemsDto.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\dto\OrderRequest.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\OrderServicesApplication.java
+D:\pracice\test\order-services\src\main\java\com\example\demo\repository\OrderRepository.java
